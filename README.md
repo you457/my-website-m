@@ -63,3 +63,19 @@
     </footer>
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #333;
+    color: blue;
+    padding: 15px;
+}
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #333;
+    color: yellow;
+}
